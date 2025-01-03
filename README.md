@@ -7,7 +7,7 @@
 This project analyzes Plato's Pizza sales data using Power BI to identify key trends and optimize marketing strategies. The dashboard highlights top-performing products, peak demand hours, and customer preferences, providing actionable insights to enhance profitability and customer retention.
 
 ### Dataset:
-The primary dataset used for this analysis is the "sales.csv" file, which includes sales transactions, pizza types, order times, and hours of orders.
+The primary dataset used for this analysis is the "Data Model - Pizza Sales.xlsx - pizza_sales.csv" file, which includes sales transactions, pizza types, order times, and hours of orders.
 
 ### Objective:
 To understand the performance of various pizza categories, sizes, and ingredients while identifying trends in sales and customer preferences across different dimensions like time, day, and month.

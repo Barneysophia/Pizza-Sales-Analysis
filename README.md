@@ -11,6 +11,8 @@ The primary dataset used for this analysis is the "Data Model - Pizza Sales.xlsx
 
 ### Objective:
 To understand the performance of various pizza categories, sizes, and ingredients while identifying trends in sales and customer preferences across different dimensions like time, day, and month.
+
+🔗 Check out my Power BI Interactive Dashboard here: https://lnkd.in/dy8_Yi9r
 ![Sales](https://github.com/user-attachments/assets/ad45b285-37d0-4138-8667-6699757cc686)
 ![Revenue](https://github.com/user-attachments/assets/65d7fad3-bdba-4ddf-b9c6-ee4a8d51a3b8)
 
